@@ -1,16 +1,15 @@
-## Hi there 👋
+# Salom, men Sharif 👋
 
-<!--
-**abdurakhmonovsharif/abdurakhmonovsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack developer | Flutter · FastAPI · React
+📍 Tashkent, Uzbekistan
+🌐 milliydev.uz
 
-Here are some ideas to get you started:
+## 🛠️ Texnologiyalar
+Flutter · Dart · React · FastAPI · Python · PostgreSQL · Docker · Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Hozir nima qilyapman
+- Sardoba restaurant ekotizimini rivojlantiryapman
+- [milliydev.uz](https://milliydev.uz) ustida ishlayman
+
+## 📫 Bog'lanish
+[![LinkedIn](badge)] [![Telegram](badge)]
