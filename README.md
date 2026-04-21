@@ -12,4 +12,4 @@ Flutter · Dart · React · FastAPI · Python · PostgreSQL · Docker · Firebas
 - [milliydev.uz](https://milliydev.uz) ustida ishlayman
 
 ## 📫 Bog'lanish
-[![LinkedIn](badge)] [![Telegram](badge)]
+[![LinkedIn](https://www.linkedin.com/in/abdurakhmonovsharif/)] [![Telegram](https://t.me/AbdurakhmonovSharif)]
