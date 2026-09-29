@@ -3,7 +3,7 @@
 <p align="center">
   🚀 Full-stack Developer &nbsp;|&nbsp; Flutter · FastAPI · React
   <br/>
-  📍 Tashkent, Uzbekistan &nbsp;|&nbsp; 🌐 <a href="https://milliydev.uz">milliydev.uz</a>
+  📍 Tashkent, Uzbekistan &nbsp;|&nbsp;
 </p>
 
 <p align="center">
